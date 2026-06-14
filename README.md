@@ -48,16 +48,3 @@ Here are some things you can say to the bot.
 * What is the Illuminati
 * I want to die
 * shut up
-
-
-# Contributors
-These are the contributors to this Project in random order:
-* [GR8](http://github.com/GR8z)
-* [Saad Ahmad Saddiqui](https://github.com/SaadAhmadSaddiqui)
-* [Noor-ul-Ain Fatema](http://github.com/Snf9718)
-* [Muhammad Fassih Haider](https://github.com/MuhammadFassihHaider)
-* [Mahnoor Ali](http://github.com)
-
-# Credits
-* conversational back-end is provided by [AIMLbot.dll](http://aimlbot.sourceforge.net), a C# implementation of Dr. Richard S. Wallace's A.L.I.C.E. system.
-* User Interface modules are provided by [Bunifu_UI_v1.52.dll](https://devtools.bunifu.co.ke/), a premium .NET UI Framework by Bunifu.
